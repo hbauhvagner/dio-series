@@ -1,0 +1,15 @@
+/home/bau/DIO/localizaLabs/DIO.Series/bin/Debug/net6.0/DIO.Series
+/home/bau/DIO/localizaLabs/DIO.Series/bin/Debug/net6.0/DIO.Series.deps.json
+/home/bau/DIO/localizaLabs/DIO.Series/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/home/bau/DIO/localizaLabs/DIO.Series/bin/Debug/net6.0/DIO.Series.dll
+/home/bau/DIO/localizaLabs/DIO.Series/bin/Debug/net6.0/ref/DIO.Series.dll
+/home/bau/DIO/localizaLabs/DIO.Series/bin/Debug/net6.0/DIO.Series.pdb
+/home/bau/DIO/localizaLabs/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/home/bau/DIO/localizaLabs/DIO.Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/bau/DIO/localizaLabs/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/home/bau/DIO/localizaLabs/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/home/bau/DIO/localizaLabs/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/bau/DIO/localizaLabs/DIO.Series/obj/Debug/net6.0/DIO.Series.dll
+/home/bau/DIO/localizaLabs/DIO.Series/obj/Debug/net6.0/ref/DIO.Series.dll
+/home/bau/DIO/localizaLabs/DIO.Series/obj/Debug/net6.0/DIO.Series.pdb
+/home/bau/DIO/localizaLabs/DIO.Series/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache
